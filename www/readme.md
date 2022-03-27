@@ -1,4 +1,6 @@
 ## Install
+- Install Apache and PHP >=7.1 (With PDO)
+- Copy All files from `www` folder to your web server
 - Create MySQL database and import structure.sql
 - Confugure config/config.php
 
